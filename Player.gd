@@ -8,7 +8,7 @@ func _ready():
 	screen_size = get_viewport_rect().size
 	# Comment the line below when you're debugging Player scene alone
 	# so you can see it appearing immediately.
-	hide()
+	# hide()
 
 func _process(delta):
 	var velocity = Vector2.ZERO # The player's movement vector.
