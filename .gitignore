@@ -14,3 +14,6 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 *.swp
+
+# Output folders for exported build
+build/*
